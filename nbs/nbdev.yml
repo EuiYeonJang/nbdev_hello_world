@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://EuiYeonJang.github.io/nbdev_hello_world"
+  description: "Hello World with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/EuiYeonJang/nbdev_hello_world"
